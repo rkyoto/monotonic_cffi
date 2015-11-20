@@ -1,7 +1,18 @@
-# monotonic_cffi
+monotonic_cffi
+==============
+
 Just a cffi version of existing monotonic module on PyPI. See:
 
-    https://pypi.python.org/pypi/monotonic
+https://pypi.python.org/pypi/monotonic
+
+Usage
+=====
+
+```
+>>>> from monotonic_cffi import monotonic
+>>>> monotonic()
+100313.649982977
+```
 
 Tested with PyPy 2.6.1 and 4.0.0 on Windows, OSX and some Linux distros.
 
