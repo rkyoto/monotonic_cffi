@@ -21,4 +21,5 @@ setup(
         'Programming Language :: Python :: Implementation :: PyPy',
     ),
     py_modules=['monotonic_cffi'],
+    install_requires=['cffi'],
 )
