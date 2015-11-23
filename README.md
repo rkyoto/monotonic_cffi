@@ -5,6 +5,8 @@ Just a cffi version of existing monotonic module on PyPI. See:
 
 https://pypi.python.org/pypi/monotonic
 
+This module is also available on PyPI: https://pypi.python.org/pypi/monotonic_cffi
+
 Usage
 =====
 
